@@ -2,7 +2,7 @@
 
 This repository demonstrates exploring customer churn using SQL queries on the Telco dataset (`telco.csv`).  
 
-##**Original repo:**
+**Original repo:**
 
 [nikhilsthorat03/Telco-Customer-Churn](https://github.com/nikhilsthorat03/Telco-Customer-Churn)  
 
